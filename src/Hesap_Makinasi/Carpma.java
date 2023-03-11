@@ -17,12 +17,6 @@ public class Carpma {
         int sonuc = a*b;
 
         return sonuc;
-    }
+    }}
 
 
-    private static class String {
-    }
-
-    private static class System {
-    }
-}
